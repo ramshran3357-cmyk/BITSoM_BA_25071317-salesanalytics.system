@@ -1,0 +1,107 @@
+============================================================
+SALES ANALYTICS REPORT
+Generated: 2026-01-20 02:25:53
+Records Processed: 73
+============================================================
+
+OVERALL SUMMARY
+------------------------------------------------------------
+Total Revenue: ₹3,540,205.00
+Total Transactions: 12859
+Average Order Value: ₹275.31
+Date Range: 2024-12-01 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+------------------------------------------------------------
+Region              Sales    % of Total    Txns
+North       ₹1,321,605.00      37.33%      21
+South         ₹889,332.00      25.12%      14
+West          ₹848,902.00      23.98%      20
+East          ₹467,969.00      13.22%      17
+
+TOP 5 PRODUCTS
+------------------------------------------------------------
+Rank  Product             Qty Sold    Revenue
+1     Mouse               61          ₹40,297.00
+2     Wireless Mouse      52          ₹62,378.00
+3     Webcam              35          ₹128,187.00
+4     USB Cable           33          ₹7,622.00
+5     Monitor             30          ₹493,759.00
+
+TOP 5 CUSTOMERS
+------------------------------------------------------------
+CustomerID  Products Bought                        Total Spent    Orders      Avg Order
+C004        Headphones, Laptop Charger, Lapt...    ₹857,124.00       3       ₹285,708.00
+C017        Laptop Premium                         ₹762,460.00       1       ₹762,460.00
+C010        Mouse Wireless, External Hard Dr...    ₹457,186.00       3       ₹152,395.33
+C024        Monitor, Wireless Mouse, Monitor...    ₹261,848.00       3        ₹87,282.67
+C008        Monitor, Laptop Charger, Mouse, ...    ₹216,176.00       5        ₹43,235.20
+C023        Monitor, Webcam                        ₹165,391.00       2        ₹82,695.50
+C003        Wireless Mouse, Mouse, Laptop Pr...    ₹118,144.00       3        ₹39,381.33
+C005        Wireless Mouse Gaming, Laptop Ch...    ₹112,405.00       4        ₹28,101.25
+C013        Laptop, Webcam, USB Cable               ₹75,919.00       3        ₹25,306.33
+C009        Webcam HD, Keyboard, Mouse, Head...     ₹64,707.00       6        ₹10,784.50
+C007        Wireless Mouse Gaming, Webcam, M...     ₹57,317.00       5        ₹11,463.40
+C019        Laptop Charger 65W, Mouse, Monit...     ₹56,358.00       3        ₹18,786.00
+C020        Monitor                                 ₹51,695.00       1        ₹51,695.00
+C028        Keyboard, Headphones                    ₹48,359.00       2        ₹24,179.50
+C022        Wireless Mouse, Laptop Charger, ...     ₹45,778.00       5         ₹9,155.60
+C002        External Hard Drive                     ₹34,218.00       1        ₹34,218.00
+C012        External Hard Drive, Mouse, USB ...     ₹29,735.00       3         ₹9,911.67
+C006        External Hard Drive 1TB                 ₹24,360.00       1        ₹24,360.00
+C011        Wireless Mouse, Mouse, Keyboard ...     ₹24,144.00       3         ₹8,048.00
+C025        Headphones, Mouse, Webcam               ₹23,148.00       3         ₹7,716.00
+C001        Headphones, Webcam                      ₹11,574.00       2         ₹5,787.00
+C018        Wireless Mouse                          ₹10,152.00       1        ₹10,152.00
+C026        Laptop Charger, Mouse                   ₹10,012.00       2         ₹5,006.00
+C015        Wireless Mouse, Laptop Charger           ₹6,330.00       2         ₹3,165.00
+C029        Wireless Mouse, Webcam, USB Cable        ₹6,238.00       3         ₹2,079.33
+C030        Wireless Mouse                           ₹4,617.00       1         ₹4,617.00
+C014        Mouse Wireless                           ₹2,560.00       1         ₹2,560.00
+C027        USB Cable                                ₹2,250.00       1         ₹2,250.00
+
+DAILY SALES TREND
+------------------------------------------------------------
+Date                Revenue      Txns    Customers
+2024-12-01      ₹123,969.00       3         2
+2024-12-02      ₹882,906.00       5         5
+2024-12-03       ₹61,851.00       5         5
+2024-12-05          ₹257.00       1         1
+2024-12-06       ₹34,072.00       1         1
+2024-12-07      ₹204,912.00      10         7
+2024-12-08       ₹70,383.00       3         3
+2024-12-09       ₹25,339.00       4         4
+2024-12-10        ₹1,550.00       2         2
+2024-12-11       ₹13,207.00       2         2
+2024-12-13      ₹417,923.00       3         3
+2024-12-14       ₹45,349.00       2         2
+2024-12-15      ₹818,960.00       1         1
+2024-12-16        ₹3,020.00       1         1
+2024-12-17      ₹114,356.00       1         1
+2024-12-18       ₹81,284.00       2         1
+2024-12-20          ₹594.00       1         1
+2024-12-21       ₹25,992.00       1         1
+2024-12-22       ₹89,645.00       6         6
+2024-12-23          ₹768.00       1         1
+2024-12-24      ₹161,907.00       4         4
+2024-12-25       ₹30,455.00       4         4
+2024-12-26       ₹34,218.00       1         1
+2024-12-27      ₹119,313.00       2         2
+2024-12-28            ₹0.00       1         1
+2024-12-29       ₹18,005.00       3         3
+2024-12-30      ₹159,970.00       3         3
+
+PEAK SALES DAYS 
+------------------------------------------------------------
+Best Selling Day: 2024-12-02
+Low Performing Products: Laptop, Keyboard Mechanical
+Average Transaction Value (North):₹629.34
+Average Transaction Value (South):₹635.24
+Average Transaction Value (West):₹424.45
+Average Transaction Value (East):₹275.28
+
+API ENRICHMENT SUMMARY
+------------------------------------------------------------
+Total Products Enriched: 0
+Success Rate: 0.00%
+Products Not Enriched: P101, P102, P103, P104, P105, P106, P107, P108, P109, P110
